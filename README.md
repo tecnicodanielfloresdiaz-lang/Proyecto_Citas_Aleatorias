@@ -1,2 +1,2 @@
-# Proyecto_Citas_Aleatorias
+# Mi primer README
 Citas Aleatorias
